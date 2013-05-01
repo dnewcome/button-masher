@@ -7,7 +7,7 @@
 are the same;
 #X obj 133 19 t f f;
 #X obj 192 -14 inlet sep value;
-#X obj 133 53 tools/pass-if;
+#X obj 133 53 pass-if;
 #X connect 0 0 5 0;
 #X connect 2 0 1 0;
 #X connect 3 0 1 0;
