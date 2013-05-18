@@ -1,0 +1,3 @@
+[submodule "lib/pd-tools"]
+	path = lib/pd-tools
+	url = https://github.com/dnewcome/pd-tools.git
