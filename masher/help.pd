@@ -1,0 +1,8 @@
+#N canvas 74 219 552 483 10;
+#X text 50 27 button masher is a library to help translate key events
+from hid devices to midi note events;
+#X obj 108 149 key2midi-test;
+#X obj 112 217 note-test;
+#X obj 111 383 legacy/b2n;
+#X text 111 362 b2n is the old library that inspired button masher
+;
